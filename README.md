@@ -9,6 +9,7 @@ Las tecnologías que estoy utilizando son:
 ```
 ### Aca les dejo mi Portfolio 📋
 
-* https://music-portfolio-mati-prieto.herokuapp.com/    (Demostrando Skills y Creatividad)
+* https://music-portfolio-mati-prieto.herokuapp.com/    (Demostrando Skills y Creatividad - Páginas de Home y Trending)
+* https://portfolio-paisaje.herokuapp.com/              (Demostrando Manejo de Photoshop y animaciónes)
 
 
