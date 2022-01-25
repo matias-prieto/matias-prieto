@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hola, soy Mati Prieto! 👋
 
-<!--
-**matias-prieto/matias-prieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Un poco de mí 🚀
+Soy un programador web full stack orientado al front-end. 
 
-Here are some ideas to get you started:
+Las tecnologías que estoy utilizando son:
+```
+• JavaScript • React • CSS • HTML • GIT • NodeJS • Express • MySQL •Figma •Photoshop CS6 •SonyVegas
+```
+#### Aca les dejo mis Portfolio 📋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* https://music-portfolio-mati-prieto.herokuapp.com/ 
+
+
