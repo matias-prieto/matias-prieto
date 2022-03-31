@@ -11,5 +11,5 @@ Las tecnologías que estoy utilizando son:
 
 * https://music-portfolio-mati-prieto.herokuapp.com/    (Demostrando Skills y Creatividad - Páginas de Home y Trending)
 * https://portfolio-paisaje.herokuapp.com/              (Demostrando Manejo de Photoshop y animaciónes)
-
+* https://github.com/0621CDFSNCN12LAED/grupo-01         (Full stack developer)
 
