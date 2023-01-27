@@ -7,7 +7,7 @@ Las tecnologías que estoy utilizando son:
 ```
 • JavaScript • React • CSS • HTML • GIT • NodeJS • Express • MySQL •Figma •Photoshop CS6 •SonyVegas
 ```
-### Aca les dejo mi Portfolio 📋
+### Portfolio 📋
 
 * https://music-portfolio-mati-prieto.herokuapp.com/    (Demostrando Skills y Creatividad - Páginas de Home y Trending)
 * https://portfolio-paisaje.herokuapp.com/              (Demostrando Manejo de Photoshop y animaciónes)
